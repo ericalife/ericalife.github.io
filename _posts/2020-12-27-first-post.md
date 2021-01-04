@@ -3,9 +3,9 @@ title:  "Multi-UAV Control Project (1)"
 excerpt: "편대비행 시뮬레이션을 해보자"
 
 categories:
-  - Blog
+  - UAV
 tags:
-  - Blog
+  - UAV
 last_modified_at: 2020-12-28
 ---
 
